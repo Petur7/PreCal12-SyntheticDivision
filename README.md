@@ -14,11 +14,11 @@ or
 
     python main.py
   
-# How to use?
+## How to use?
 
 1. Enter only integer
 2. No space
 
-# How to enter exponent?
+## How to enter exponent?
 
 For example: 8 to the power 2, please intput 8^2
